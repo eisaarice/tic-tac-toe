@@ -1,4 +1,4 @@
-# TicTacToe
+# tic-tac-toe
 TicTacToe implemented in Java that can be played through the console
 
 
